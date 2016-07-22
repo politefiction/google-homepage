@@ -1,0 +1,10 @@
+#apps img {
+	height: 30px;
+	width: 30px;
+	background: url(i1_1967ca6a.png) 0 0;
+}
+
+empty div with background?
+id for bottom navbar?
+
+http://www.w3schools.com/css/img_trans.gif
